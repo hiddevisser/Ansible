@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to practical guide for Ansible
 
 You can use the [editor on GitHub](https://github.com/hiddevisser/Ansible/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
