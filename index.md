@@ -1,6 +1,21 @@
 ## Welcome to the practical guide for Ansible
 
+### Technical requirements
+
+
 ### Installation
+Easy steps for installing Ansible through "pip", the Python package manager. If 'pip' isn't already installed, you can get pip by the following command:
+```markdown
+$ sudo easy_install pip
+```
+
+
+
+### Ansible version and configuration
+
+### Playbook parsing
+
+### 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
